@@ -31,7 +31,7 @@
   <!-- Div para o texto (chat extension) -->
   <div style="flex: 1; text-align: left;">
     <a href="https://open.spotify.com/user/313uvvod2rhp22rxhfpm7kpcctre">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=313uvvod2rhp22rxhfpm7kpcctre&count=10&unique=true" alt="Spotify recently played" />
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=313uvvod2rhp22rxhfpm7kpcctre&count=8&unique=true" alt="Spotify recently played" />
     </a>
   </div>
   

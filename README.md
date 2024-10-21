@@ -1,6 +1,4 @@
-## sai dai prego.
-
-<h1 align="left">stats</h2>
+<h2 align="left">stats🤓</h2>
 
 ###
 
@@ -11,6 +9,6 @@
 
 ###
 
-<h5 align="left">nossa irmão que podre.</h5>
+<h5 align="left">nossa irmao que podre.</h5>
 
 ###

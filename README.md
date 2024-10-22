@@ -59,7 +59,7 @@
   </div>
 
   <div>
-    <img src="https://media.giphy.com/media/your-gif-url.gif" alt="Your GIF" width="150" height="150" />
+    <img src="https://i.pinimg.com/originals/90/5d/62/905d623bdaac605487753f9d9b6b39cb.gif" alt="Your GIF" width="150" height="150" />
   </div>
 </div>
 

@@ -6,7 +6,7 @@
   <img width="42%"  src="https://github-readme-stats.vercel.app/api?username=nikkokkk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikkokkk&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<img src="https://raw.githubusercontent.com/nikkokkk/nikkokkk/output/snake.svg" alt="Snake animation" />
+<img align="center "src="https://i.pinimg.com/originals/26/30/6a/26306a823697ac496f804e5cb0f1ed66.gif" alt="Your gif" />
 <h5 align="left">nossa irmao que podre.</h5>
     <img align="center" src="https://i.pinimg.com/originals/2d/f6/8f/2df68f2225774a873271845e5006e6a2.gif" alt="Your GIF" width="150" height="150" />
 

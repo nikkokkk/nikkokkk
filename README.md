@@ -8,7 +8,7 @@
 </div>
 <img align="center "src="https://i.pinimg.com/originals/26/30/6a/26306a823697ac496f804e5cb0f1ed66.gif" alt="Your gif" />
 <h5 align="left">nossa irmao que podre.</h5>
-    <img align="center" src="https://i.pinimg.com/originals/2d/f6/8f/2df68f2225774a873271845e5006e6a2.gif" alt="Your GIF" width="150" height="150" />
+    <img width="200" height="50"align="center" src="https://i.pinimg.com/originals/2d/f6/8f/2df68f2225774a873271845e5006e6a2.gif" alt="Your GIF"/>
 
 <h2 align="left">linguagens😮</h2>
 

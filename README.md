@@ -44,9 +44,11 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <a href="https://open.spotify.com/user/313uvvod2rhp22rxhfpm7kpcctre">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=313uvvod2rhp22rxhfpm7kpcctre&count=8&unique=true" />
+  </div>
+    <div>
   </a>
   <a href="https://www.twitch.tv/niko_yeager">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>

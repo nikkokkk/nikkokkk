@@ -7,6 +7,8 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikkokkk&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <h5 align="left">nossa irmao que podre.</h5>
+    <img align="center" src="https://i.pinimg.com/originals/2d/f6/8f/2df68f2225774a873271845e5006e6a2.gif" alt="Your GIF" width="150" height="150" />
+
 <h2 align="left">linguagens😮</h2>
 
 ###
@@ -50,10 +52,4 @@
     </a>
   </div>
 
-  <div>
-    <img src="https://i.pinimg.com/originals/2d/f6/8f/2df68f2225774a873271845e5006e6a2.gif" alt="Your GIF" width="150" height="150" />
-  
-
-    
-  </div>
 </div>

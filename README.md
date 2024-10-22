@@ -25,6 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://i.pinimg.com/originals/26/f7/bc/26f7bc6ce7f11f2e0727d5b3509a913e.gif" alt="Your gif" width="150" height="150" />
 </div>
 
 ###
@@ -59,7 +60,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=313uvvod2rhp22rxhfpm7kpcctre&count=8&unique=true" />
   </a>
   <div style="display: inline-block; margin-left: 20px;">
-    <img src="https://i.pinimg.com/originals/26/f7/bc/26f7bc6ce7f11f2e0727d5b3509a913e.gif" alt="Your gif" width="150" height="150" />
+    
   </div>
 </div>
 

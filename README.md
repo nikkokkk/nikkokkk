@@ -48,19 +48,20 @@
   <a href="https://open.spotify.com/user/313uvvod2rhp22rxhfpm7kpcctre">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=313uvvod2rhp22rxhfpm7kpcctre&count=8&unique=true" alt="Spotify recently played"  />
   </a>
-
- 
   <a href="https://www.twitch.tv/niko_yeager">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
-  <a href="https://www.youtube.com/@nikkonk2">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" width="52" height="40" alt="twitch logo"  />
   </a>
   <a href="https://www.instagram.com/nikkonk2/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40"   />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="52" height="40"   />
+  </a>
+   <a href="https://open.spotify.com/user/313uvvod2rhp22rxhfpm7kpcctre">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"  />
   </a>
   <a href="https://steamcommunity.com/profiles/76561198387256607/">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+   <a href="https://br.pinterest.com/nikkokkk/_profile/">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
   </a>
 </div>
 

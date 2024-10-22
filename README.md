@@ -52,7 +52,9 @@
   <a href="https://steamcommunity.com/profiles/76561198387256607/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"/></a>
   <a href="https://br.pinterest.com/nikkokkk/_profile/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"/></a>
 </div>
+<br>
 <div align="right">
+  
   <a href="https://open.spotify.com/user/313uvvod2rhp22rxhfpm7kpcctre">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=313uvvod2rhp22rxhfpm7kpcctre&count=8&unique=true" />
   </a>

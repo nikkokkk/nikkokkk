@@ -65,7 +65,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://steamcommunity.com/profiles/76561198387256607/">
-    <img src=<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="52" height="40" alt="steam logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="52" height="40" alt="steam logo" />
   </a>
 </div>
 

@@ -59,7 +59,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=313uvvod2rhp22rxhfpm7kpcctre&count=8&unique=true" />
   </a>
   <div style="display: inline-block; margin-left: 20px;">
-    <img src="https://media.giphy.com/media/your-gif-url.gif" alt="https://i.pinimg.com/originals/26/f7/bc/26f7bc6ce7f11f2e0727d5b3509a913e.gif" width="150" height="150" />
+    <img src="https://i.pinimg.com/originals/26/f7/bc/26f7bc6ce7f11f2e0727d5b3509a913e.gif" alt="Your gif" width="150" height="150" />
   </div>
 </div>
 

@@ -29,39 +29,50 @@
 </div>
 
 ###
-
-
-###
-
-
-
-###
-
-
-
-###
-
 <h2 align="left">me😏</h2>
 
+<div>
+  <a href="https://www.twitch.tv/niko_yeager">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"/>
+  </a>
+  <a href="https://www.instagram.com/nikkonk2/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+  </a>
+  <a href="https://open.spotify.com/user/313uvvod2rhp22rxhfpm7kpcctre">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"/>
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561198387256607/">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"/>
+  </a>
+  <a href="https://br.pinterest.com/nikkokkk/_profile/">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"/>
+  </a>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="margin-right: 20px;">
+    <a href="https://open.spotify.com/user/313uvvod2rhp22rxhfpm7kpcctre">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=313uvvod2rhp22rxhfpm7kpcctre&count=8&unique=true" />
+    </a>
+  </div>
+
+  <div>
+    <img src="https://media.giphy.com/media/your-gif-url.gif" alt="Your GIF" width="150" height="150" />
+  </div>
+</div>
+
+
 ###
 
 
-   <div>
-  <a href="https://www.twitch.tv/niko_yeager" ><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"target="_blank"/></a>
-  <a href="https://www.instagram.com/nikkonk2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"/></a>
-  <a href="https://open.spotify.com/user/313uvvod2rhp22rxhfpm7kpcctre"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"/></a>
-  <a href="https://steamcommunity.com/profiles/76561198387256607/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"/></a>
-  <a href="https://br.pinterest.com/nikkokkk/_profile/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" target="_blank"/></a>
-</div>
-<br>
-<div align="right">
-  
-  <a href="https://open.spotify.com/user/313uvvod2rhp22rxhfpm7kpcctre">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313uvvod2rhp22rxhfpm7kpcctre&count=8&unique=true" />
-  </a>
-  <div style="display: inline-block; margin-left: 20px;">
-    
-  </div>
-</div>
+
+###
+
+
+
+###
+
 
 ###

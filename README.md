@@ -31,7 +31,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nikkokkk/nikkokkk/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -52,20 +52,20 @@
 ###
 
 <div align="left">
-  <a href="discordapp.com/users/432608658405195778" target="_blank">
+  <a href="discordapp.com/users/432608658405195778">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://www.twitch.tv/niko_yeager" target="_blank">
+  <a href="https://www.twitch.tv/niko_yeager">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   </a>
-  <a href="https://www.youtube.com/@nikkonk2" target="_blank">
+  <a href="https://www.youtube.com/@nikkonk2">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/nikkonk2/" target="_blank">
+  <a href="https://www.instagram.com/nikkonk2/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://steamcommunity.com/profiles/76561198387256607/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+  <a href="https://steamcommunity.com/profiles/76561198387256607/">
+    <img src=<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="52" height="40" alt="steam logo" />
   </a>
 </div>
 

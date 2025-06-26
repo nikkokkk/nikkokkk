@@ -17,7 +17,7 @@
 <h2 align="left">me😏</h2>
 
 ###
- <div>More actions
+ <div>
   <a href="https://www.twitch.tv/niko_yeager" ><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"target="_blank"/></a>
   <a href="https://open.spotify.com/user/313uvvod2rhp22rxhfpm7kpcctre"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"/></a>
   <a href="https://steamcommunity.com/profiles/76561198387256607/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"/></a>
